@@ -1,0 +1,7 @@
+Submit the code for the following problems.A. https://www.hackerrank.com/challenges/30-queues-stacks/problem
+B. https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem
+C. https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
+D. https://www.hackerrank.com/challenges/recursion-in-c/problem
+E. https://www.hackerrank.com/contests/w35/challenges/triple-recursion
+
+Filename format: <Roll>_<Problem>.cpp (e.g., 61_A.cpp)
